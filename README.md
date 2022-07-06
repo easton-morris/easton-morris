@@ -20,7 +20,7 @@ forward to growing my skills and contributing meaningfully in any way possible.
 
 I also have a beautiful little pup, Mercy! She wishes you a good day. :angel:
 
-![Mercy](https://github.com/easton-morris/easton-morris/blob/main/images/MercyRedPack.jpg)
+![Mercy](https://github.com/easton-morris/easton-morris/blob/main/images/MercyRedPackSM.jpg)
 
 # Contact Me
 
