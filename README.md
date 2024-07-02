@@ -1,8 +1,8 @@
 # The Scouting Report
 
-:notebook: **Learning:** SPFx
+:notebook: **Learning:** Python, C
 
-:computer: **Tech Stack:** JavaScript, HTML5, CSS3, React, Node.js, Express, PostgreSQL
+:computer: **Tech Stack:** JavaScript, HTML5, CSS3, React, SPFx, MUI, Node.js, Express, PostgreSQL
 
 :nut_and_bolt: **Tools and Libraries:** Bootstrap, npm, Babel, Webpack, Git
 
